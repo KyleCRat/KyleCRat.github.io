@@ -1,0 +1,53 @@
+body {
+  padding-top: 80px;
+}
+
+.logo {
+  width: 20%;
+  position: relative;
+  float: left;
+}
+
+p {
+  width: 75%;
+  position: relative;
+  float: right;
+  margin-left: 5%;
+  text-indent: 4em;
+}
+
+body {
+  font-size: 18px;
+  color: black;
+  font-weight: 300;
+  line-height: 200%;
+  font-family:'MyWebfont', georgia, serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-weight: normal;
+  font-family:'MyWebfont', georgia, serif;
+}
+
+h1 {
+  font-size: 218%;
+  letter-spacing: -1px;
+  margin-bottom: 30px;
+  text-align: center;
+}
+
+footer {
+  margin-top: 45px;
+  padding-top: 5px;
+  border-top: 1px solid #777;
+  color: #777;
+  clear: both;
+}
+
+footer small {
+  float: right;
+}
+
+footer ul {
+  list-style: none;
+}
